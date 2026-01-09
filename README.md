@@ -65,8 +65,4 @@ mainwindow.ui     - User interface design
 * One calculation at a time
 * Designed for learning Qt signal-slot concepts
 
----
 
-
-
-Just tell me 😊
